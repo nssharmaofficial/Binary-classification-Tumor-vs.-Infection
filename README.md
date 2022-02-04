@@ -1,4 +1,4 @@
-# ML-binary-classification
+# ML-binary-classification-thesis
 
 Radiomics analysis of PET/CT findings with fludeoxyglucose (18F) as a biomarker in the differentiation of spondylodiscitis and bone metastasis in patients with focal lesions in the spine
 
