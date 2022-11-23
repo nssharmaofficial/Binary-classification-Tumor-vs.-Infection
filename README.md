@@ -1,4 +1,4 @@
-# ML-binary-classification-thesis
+# Binary classification: Metastasis vs. Spondylodiscitidis 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=natasabrisudova&repo=ML-binary-classification-thesis&countColor=%237B1E7A)
 
